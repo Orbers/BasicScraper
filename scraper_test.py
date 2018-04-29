@@ -3,7 +3,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 import os
 
-chromedriver = "/Applications/chromedriver"
+chromedriver = "\windows\chromedriver"
 os.environ["webdriver.chrome.driver"] = chromedriver
 
 
